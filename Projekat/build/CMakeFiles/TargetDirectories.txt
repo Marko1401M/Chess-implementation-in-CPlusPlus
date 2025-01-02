@@ -1,3 +1,0 @@
-/home/marko/Desktop/proooba/PRAKTIKUM PROJEKAT/Projekat/build/CMakeFiles/PROJEKAT.dir
-/home/marko/Desktop/proooba/PRAKTIKUM PROJEKAT/Projekat/build/CMakeFiles/edit_cache.dir
-/home/marko/Desktop/proooba/PRAKTIKUM PROJEKAT/Projekat/build/CMakeFiles/rebuild_cache.dir
